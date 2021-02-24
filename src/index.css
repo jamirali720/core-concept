@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* .main {
+  width: 500px;
+  height: 300px;
+  border: 2px solid #c1c1c1;
+  margin: 40px;
+  padding: 30px;
+} */
+
+.main {
+  line-height: 5px;
+}
+.main h4 {
+  margin-top: 0;
+  
+}
+.SInfo {
+  width: 500px;
+  border-radius: 20px;
+  background-color: rgb(21, 6, 230);
+  border: 2px solid gray;
+  margin : 20px;
+  padding: 15px;
+  text-align: center;
+  color:  greenyellow;
+}
